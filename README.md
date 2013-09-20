@@ -5,7 +5,7 @@ A Dokuwiki plugin to add a watermark during image upload.
 
 
 All documentation for this plugin can be found at
-http://lazyzero.de
+https://www.dokuwiki.org/plugin:watermark
 
 If you install this plugin manually, make sure it is installed in
 lib/plugins/watermark/ - if the folder is called different it
