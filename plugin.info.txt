@@ -1,0 +1,7 @@
+base   watermark
+author Christian Moll
+email  christian@chrmoll.de
+date   2013-09-20
+name   watermark plugin
+desc   The plugin places a watermark on every image after it is uploaded.
+url    http://lazyzero.de
